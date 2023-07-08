@@ -1,0 +1,5 @@
+﻿  Automobil.cpp
+C:\Users\User\source\repos\CS323-Projekat2-Tadija-Tripkovic-3941\Automobil.cpp(97,28): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\User\source\repos\CS323-Projekat2-Tadija-Tripkovic-3941\Automobil.cpp(117,27): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\User\source\repos\CS323-Projekat2-Tadija-Tripkovic-3941\Automobil.cpp(121,28): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  CS323-Projekat2-Tadija-Tripkovic-3941.vcxproj -> C:\Users\User\source\repos\CS323-Projekat2-Tadija-Tripkovic-3941\Debug\CS323-Projekat2-Tadija-Tripkovic-3941.exe
